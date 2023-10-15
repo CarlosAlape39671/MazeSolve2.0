@@ -1,0 +1,197 @@
+Marca la posicion (2 , 0)
+Marca la posicion (2 , 1)
+Marca la posicion (3 , 1)
+Marca la posicion (4 , 1)
+Marca la posicion (4 , 2)
+Marca la posicion (4 , 3)
+Marca la posicion (3 , 3)
+Marca la posicion (3 , 4)
+Marca la posicion (3 , 5)
+Marca la posicion (4 , 5)
+Des marca la posicion [4 , 5]
+Marca la posicion (2 , 5)
+Marca la posicion (1 , 5)
+Marca la posicion (1 , 6)
+Marca la posicion (1 , 7)
+Marca la posicion (1 , 8)
+Marca la posicion (1 , 9)
+Marca la posicion (2 , 9)
+Marca la posicion (3 , 9)
+Marca la posicion (4 , 9)
+Des marca la posicion [4 , 9]
+Marca la posicion (3 , 8)
+Marca la posicion (3 , 7)
+Marca la posicion (4 , 7)
+Marca la posicion final (5 , 7)
+_______________________________________________________________
+Des marca la posicion [4 , 7]
+Des marca la posicion [3 , 7]
+Des marca la posicion [3 , 8]
+Des marca la posicion [3 , 9]
+Des marca la posicion [2 , 9]
+Des marca la posicion [1 , 9]
+Des marca la posicion [1 , 8]
+Des marca la posicion [1 , 7]
+Des marca la posicion [1 , 6]
+Marca la posicion (1 , 4)
+Marca la posicion (1 , 3)
+Marca la posicion (2 , 3)
+Des marca la posicion [2 , 3]
+Marca la posicion (1 , 2)
+Marca la posicion (1 , 1)
+Des marca la posicion [1 , 1]
+Des marca la posicion [1 , 2]
+Des marca la posicion [1 , 3]
+Des marca la posicion [1 , 4]
+Des marca la posicion [1 , 5]
+Des marca la posicion [2 , 5]
+Des marca la posicion [3 , 5]
+Des marca la posicion [3 , 4]
+Marca la posicion (2 , 3)
+Marca la posicion (1 , 3)
+Marca la posicion (1 , 4)
+Marca la posicion (1 , 5)
+Marca la posicion (1 , 6)
+Marca la posicion (1 , 7)
+Marca la posicion (1 , 8)
+Marca la posicion (1 , 9)
+Marca la posicion (2 , 9)
+Marca la posicion (3 , 9)
+Marca la posicion (4 , 9)
+Des marca la posicion [4 , 9]
+Marca la posicion (3 , 8)
+Marca la posicion (3 , 7)
+Marca la posicion (4 , 7)
+Marca la posicion final (5 , 7)
+_______________________________________________________________
+Des marca la posicion [4 , 7]
+Des marca la posicion [3 , 7]
+Des marca la posicion [3 , 8]
+Des marca la posicion [3 , 9]
+Des marca la posicion [2 , 9]
+Des marca la posicion [1 , 9]
+Des marca la posicion [1 , 8]
+Des marca la posicion [1 , 7]
+Des marca la posicion [1 , 6]
+Marca la posicion (2 , 5)
+Marca la posicion (3 , 5)
+Marca la posicion (4 , 5)
+Des marca la posicion [4 , 5]
+Marca la posicion (3 , 4)
+Des marca la posicion [3 , 4]
+Des marca la posicion [3 , 5]
+Des marca la posicion [2 , 5]
+Des marca la posicion [1 , 5]
+Des marca la posicion [1 , 4]
+Marca la posicion (1 , 2)
+Marca la posicion (1 , 1)
+Des marca la posicion [1 , 1]
+Des marca la posicion [1 , 2]
+Des marca la posicion [1 , 3]
+Des marca la posicion [2 , 3]
+Des marca la posicion [3 , 3]
+Des marca la posicion [4 , 3]
+Des marca la posicion [4 , 2]
+Des marca la posicion [4 , 1]
+Des marca la posicion [3 , 1]
+Marca la posicion (1 , 1)
+Marca la posicion (1 , 2)
+Marca la posicion (1 , 3)
+Marca la posicion (1 , 4)
+Marca la posicion (1 , 5)
+Marca la posicion (1 , 6)
+Marca la posicion (1 , 7)
+Marca la posicion (1 , 8)
+Marca la posicion (1 , 9)
+Marca la posicion (2 , 9)
+Marca la posicion (3 , 9)
+Marca la posicion (4 , 9)
+Des marca la posicion [4 , 9]
+Marca la posicion (3 , 8)
+Marca la posicion (3 , 7)
+Marca la posicion (4 , 7)
+Marca la posicion final (5 , 7)
+_______________________________________________________________
+Des marca la posicion [4 , 7]
+Des marca la posicion [3 , 7]
+Des marca la posicion [3 , 8]
+Des marca la posicion [3 , 9]
+Des marca la posicion [2 , 9]
+Des marca la posicion [1 , 9]
+Des marca la posicion [1 , 8]
+Des marca la posicion [1 , 7]
+Des marca la posicion [1 , 6]
+Marca la posicion (2 , 5)
+Marca la posicion (3 , 5)
+Marca la posicion (4 , 5)
+Des marca la posicion [4 , 5]
+Marca la posicion (3 , 4)
+Marca la posicion (3 , 3)
+Marca la posicion (4 , 3)
+Marca la posicion (4 , 2)
+Marca la posicion (4 , 1)
+Marca la posicion (3 , 1)
+Des marca la posicion [3 , 1]
+Des marca la posicion [4 , 1]
+Des marca la posicion [4 , 2]
+Des marca la posicion [4 , 3]
+Marca la posicion (2 , 3)
+Des marca la posicion [2 , 3]
+Des marca la posicion [3 , 3]
+Des marca la posicion [3 , 4]
+Des marca la posicion [3 , 5]
+Des marca la posicion [2 , 5]
+Des marca la posicion [1 , 5]
+Des marca la posicion [1 , 4]
+Marca la posicion (2 , 3)
+Marca la posicion (3 , 3)
+Marca la posicion (3 , 4)
+Marca la posicion (3 , 5)
+Marca la posicion (4 , 5)
+Des marca la posicion [4 , 5]
+Marca la posicion (2 , 5)
+Marca la posicion (1 , 5)
+Marca la posicion (1 , 6)
+Marca la posicion (1 , 7)
+Marca la posicion (1 , 8)
+Marca la posicion (1 , 9)
+Marca la posicion (2 , 9)
+Marca la posicion (3 , 9)
+Marca la posicion (4 , 9)
+Des marca la posicion [4 , 9]
+Marca la posicion (3 , 8)
+Marca la posicion (3 , 7)
+Marca la posicion (4 , 7)
+Marca la posicion final (5 , 7)
+_______________________________________________________________
+Des marca la posicion [4 , 7]
+Des marca la posicion [3 , 7]
+Des marca la posicion [3 , 8]
+Des marca la posicion [3 , 9]
+Des marca la posicion [2 , 9]
+Des marca la posicion [1 , 9]
+Des marca la posicion [1 , 8]
+Des marca la posicion [1 , 7]
+Des marca la posicion [1 , 6]
+Marca la posicion (1 , 4)
+Des marca la posicion [1 , 4]
+Des marca la posicion [1 , 5]
+Des marca la posicion [2 , 5]
+Des marca la posicion [3 , 5]
+Des marca la posicion [3 , 4]
+Marca la posicion (4 , 3)
+Marca la posicion (4 , 2)
+Marca la posicion (4 , 1)
+Marca la posicion (3 , 1)
+Des marca la posicion [3 , 1]
+Des marca la posicion [4 , 1]
+Des marca la posicion [4 , 2]
+Des marca la posicion [4 , 3]
+Des marca la posicion [3 , 3]
+Des marca la posicion [2 , 3]
+Des marca la posicion [1 , 3]
+Des marca la posicion [1 , 2]
+Des marca la posicion [1 , 1]
+Des marca la posicion [2 , 1]
+Des marca la posicion [2 , 0]
+No tiene solucion
