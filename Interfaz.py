@@ -17,18 +17,6 @@ def mostrar(matriz, caminos) :
         for j in range(cols) :
             if matriz[i][j] == 1 :
                 b[i][j] = "cuadro.png"
-                
-    # aux = []
-    # for i in resultado :
-    #     aux.append(i.split("\n"))
-        
-    # for i in aux :
-    #     i.remove("")
-    
-    # aux2 = []
-    # for i in aux :
-    #     for j in i :
-    #         aux2.append(j)
     
     t = threading.Thread(target=timer, args=(caminos, b,))
     t.start()
